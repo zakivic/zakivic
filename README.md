@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Dr. Zakaria Boutarfa. 
-I'm a Father, Developer, Scientist, Trader, and a Problem solver.
+#### I'm a Father, Developer, Scientist, and Trader. Basically a full time Problem solver.
 - 🔭 I’m currently looking for a position as a Full MERN Stack Developper.
 - 🌱 I’m constantly learning new skills and updating my techniques.
-
+- ⚡ Currently developing an HR web app for EMRE MAK.
 <!--
 **zakivic/zakivic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
