@@ -1,4 +1,4 @@
-### Hi 👋, I'm Dr. Zakaria Boutarfa. 
+### Hi 👋, I'm Zakaria Boutarfa. 
 #### I'm a Father, Developer, Scientist, and Trader.
 - 🔭 I’m currently looking for a position as a Full MERN Stack Developper.
 - 🌱 I’m constantly learning new skills and updating my techniques.
