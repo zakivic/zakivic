@@ -1,5 +1,5 @@
-### Hi, I'm Zakaria Boutarfa. 
-- 🔭 I’m currently looking for a position as a Full MERN Stack Developper.
+### Hi, I'm Zakaria 
+- 🔭 
 
 <!--
 **zakivic/zakivic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
