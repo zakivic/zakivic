@@ -1,6 +1,6 @@
 ### Hi, I'm Zakaria 
 - 🔭 MERN⚡
-- 🌱 Spring Boot
+- 🌱 Spring Boot⚡
 
 <!--
 **zakivic/zakivic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
