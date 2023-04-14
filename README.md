@@ -1,8 +1,10 @@
 
-### Hi, I'm Zakaria 
-- 🔭 MERN⚡
-- 🌱 Spring Boot⚡
-<div>
+<div id="header" align="center">
+  <h1>Hi, I'm Zakaria <h1>
+ 🔭 MERN⚡
+ 🌱 Spring Boot⚡
+    </div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
