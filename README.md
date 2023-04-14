@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <h1>Hi, I'm Zakaria <h1>
+  <h2>Hi, I'm Zakaria <h2>
  🔭 MERN⚡
  🌱 Spring Boot⚡
     </div>
