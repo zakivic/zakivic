@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
   <h3>Hi ✋, I'm Zakaria <h3>
- 🔭 MERN⚡
- 🌱 Spring Boot⚡
+ <h4>🔭 MERN⚡<h4>
+<h4> 🌱 Spring Boot⚡<h4>
     </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
