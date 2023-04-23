@@ -1,9 +1,7 @@
 
 <div id="header" align="center">
   <h3>Hi there ✋, I'm Zakaria <h3>
- <h4> MERN<h4>
-<h4>Spring Boot<h4>
-    </div>
+     </div>
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -21,7 +19,8 @@
 **zakivic/zakivic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<h4> MERN<h4>
+<h4>Spring Boot<h4>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
