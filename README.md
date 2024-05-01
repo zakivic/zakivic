@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
-  <h3> Hi there, I'm Zakaria,  technically oriented developer with more than ten years of experince. Passionate about leveraging my expertise in frontend, Js, Ts to build user-friendly applications. Currently working at @SevenPeaksSoftware  leading amazing forward-thinking development team.  
-Ocaml and Rust enthusiast (yes, this is a poem).  <h3>
+  <h4> Hi there, I'm Zakaria,  technically oriented developer with more than ten years of experince. Passionate about leveraging my expertise in frontend, Js, Ts to build user-friendly applications. Currently working at @SevenPeaksSoftware  leading amazing forward-thinking development team.  
+Ocaml and Rust enthusiast (yes, this is a poem).  <h4>
      </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
