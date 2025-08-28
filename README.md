@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <h4> Hi there, I'm Zakaria,  technically oriented developer with more than ten years of experince. Passionate about leveraging my expertise in frontend, Js, Ts to build user-friendly applications. Currently working at SevenPeaksSoftware leading amazing forward-thinking development team.  
+  <h4> Hi there, I'm Zakaria,  technically oriented developer with more than ten years of experince. Passionate about leveraging my expertise in frontend, Js, Ts to build user-friendly applications. Currently working at Kittl an amazing forward-thinking development team.  
 Ocaml and Rust enthusiast (yes, this is a poem, im trying).   <h4>
      </div>
 <div align="center">
